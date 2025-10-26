@@ -3,24 +3,32 @@
 A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Project Status
-**Version**: 1.0.0  
-**Environment**: Production  
-**Maintainer**: DevOps Team
+
+- **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
+- **Environment**: Production & Development
+- **Maintainer**: DevOps Team
+
+## New Features (Development)
+
+- 🚀 Kubernetes orchestration support
+- 🔄 Advanced blue-green deployment
+- 📊 Enhanced monitoring dashboard
+- 🔐 OAuth2 authentication
+- 🐳 Docker Compose integration
+- **Multi-cloud support** (AWS, Azure, GCP)
+- Slack/Discord notifications
 
 ## Features
+
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
 
 ## Quick Start
-1. Clone the repository
-2. Configure environment variables
-3. Run deployment script
-4. Monitor system health
 
-## Documentation
-See `/docs` folder for detailed documentation.
+### Production Mode
 
-## License
-MIT License
+```bash
+export DEPLOY_ENV=production
+./scripts/deploy.sh
