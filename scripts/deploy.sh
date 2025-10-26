@@ -134,4 +134,3 @@ else
     echo "❌ Error: Unknown environment '$DEPLOY_ENV'"
     exit 1
 fi
-BUG
