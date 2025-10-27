@@ -4,7 +4,7 @@
 
 - Name: JAYANTHI SRIKAR
 - Student ID: 23P31A0521
-- Repository: https://github.com/Srikar-jayanthi/git-solved-23P31A0521.git
+- Repository: [YOUR REPO URL]
 - Date Started: 25-10-2025
 - Date Completed: 27-10-2025
 
